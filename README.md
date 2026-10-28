@@ -47,6 +47,7 @@ Platforms that let you describe what you want and AI builds it.
 - **[v0](https://v0.dev)** — AI-powered UI generation tool by Vercel. Generate React components from text prompts.
 - **[Tempo](https://tempolabs.ai)** — AI-powered React app builder with visual editing and code generation.
 - **[Create.xyz](https://create.xyz)** — Build websites and tools with AI. Describe what you need and get a working prototype.
+- **[Newly](https://newly.app/)** — Builds native iOS and Android apps from natural-language prompts.
 - **[Softr](https://softr.io)** — Build apps from Airtable or Google Sheets without code. AI-assisted no-code platform.
 - **[Manus](https://manus.im)** — Autonomous AI agent for end-to-end project automation. Handles research, coding, and deployment.
 
